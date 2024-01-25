@@ -14,7 +14,7 @@ Detta repository samlar information som tillhör Fantastic Warriors examinerings
 
 # Omfattning
 
-Projektet handlar om att skriva user stories och planera en sprint för det fiktiga projektet att bygga ett nytt IT-system för Öreklljunga bibliotek
+Projektet handlar om att skriva user stories och planera en sprint för det fiktiga projektet att bygga ett nytt IT-system för Öreklljunga bibliotek.
 
 Kravspecifikationen finns tillgänglig [här](https://gist.github.com/Andreas-Zocom/a3f71b4ead8f7260a9066888313bbb40).
 
